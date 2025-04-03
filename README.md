@@ -29,6 +29,7 @@
 - 🔧 **Ferramentas:**  VisuAlg, Trello, Notion, Git e GitHub
 - 🗃️ **Metodologia:** Scrum
 
+aaaaaaaaaaaaaaaa
 ## Funcionalidades
 
 - **Menu Principal**: Apresenta as opções de Sequências Númericas disponíveis para calculo.
